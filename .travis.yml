@@ -29,7 +29,7 @@ android:
 # Command to run
 script:
   - ./gradlew clean
-  - ./gradlew :attablelib:build
+  - ./gradlew :atttablelib:build
 
 notifications:
   email: false
