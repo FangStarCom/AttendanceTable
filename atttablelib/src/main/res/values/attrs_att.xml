@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseAttMonthView">
+    
+        <attr name="calendar_height" format="dimension" />
+        <attr name="week_bar_height" format="dimension" /> <!--星期栏的高度-->
+        <attr name="week_text_size" format="dimension" /><!--周栏字体大小-->
+    </declare-styleable>
+</resources>

@@ -1,0 +1,2 @@
+include ':app', ':atttablelib'
+rootProject.name='AttendanceTable'
