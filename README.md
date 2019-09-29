@@ -1,6 +1,6 @@
 
 [![Jitpack](https://jitpack.io/v/FangStarCom/AttendanceTable.svg)](https://jitpack.io/#FangStarCom/AttendanceTable)
-[![Build Status](https://travis-ci.org/FangStarCom/CallRecord.svg?branch=master)](https://travis-ci.org/CListery/CallRecord)
+[![Build Status](https://travis-ci.org/FangStarCom/AttendanceTable.svg?branch=master)](https://travis-ci.org/FangStarCom/AttendanceTable)
 [![Min Sdk Version](https://img.shields.io/badge/API-19%2B-blue.svg?style=flat-square)](https://developer.android.com/about/versions/android-4.4.html)
 [![License](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
